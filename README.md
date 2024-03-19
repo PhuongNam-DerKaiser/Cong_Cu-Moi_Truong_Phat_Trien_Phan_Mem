@@ -1,6 +1,6 @@
 # CV CÁ NHâN
 ## THôNG TIN
-* Họ Tên: Vũ PHươNG NAM
-* NGàY SINH: 17/0/2002
+* HỌ TÊN: Vũ Phương Nam
+* NGÀY SINH: 17/05/2002
 * MSSV: 201106410
-* KHóa: 2020 - 2024
+* KHÓA: 2020 - 2024
